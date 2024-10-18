@@ -1,1 +1,1 @@
-is file 1 which is changed from branch 2
+Hi My Name is Manohar! updating file1 in branch 1.
